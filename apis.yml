@@ -39,7 +39,6 @@ apis:
   - name: ip-api
     description: "Find location with IP address or domain"
     humanURL: https://ip-api.com/docs
-    baseURL: https://ip-api.com/docs
     tags:
       - Geocoding
     properties:
